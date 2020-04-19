@@ -4,7 +4,7 @@
 [![License](https://poser.pugx.org/brozot/laravel-fcm/license)](https://packagist.org/packages/brozot/laravel-fcm)
 
 ## Introduction
-
+### I forked this for my personal use.. Since it didn't support laravel 7 . I just updated the version on composer nothing more  
 Laravel-FCM is an easy to use package working with both Laravel and Lumen for sending push notification with [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM).
 
 It currently **only supports HTTP protocol** for :
